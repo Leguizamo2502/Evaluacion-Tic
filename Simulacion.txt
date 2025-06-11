@@ -1,4 +1,5 @@
 - Planificación del proyecto
 - Desarrollo Backend 
 - Pruebas y aseguramiento de calidad 
-- Desarrollo fronted
+- Desarrollo fronted - terminado
+- 
