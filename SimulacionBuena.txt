@@ -9,4 +9,5 @@
 - Creación del layout en el frontend
 - Frontend Terminado
 - Inicio del Despliegue
-- Finalizacion del Despliegue
+- Finalización del Despliegue
+- Documentación y manual de usuario
