@@ -1,3 +1,4 @@
 - Planificación del proyecto
 - Creación de la base de datos
 - Creación del Modulo de seguridad
+- Autentificación de usuario
