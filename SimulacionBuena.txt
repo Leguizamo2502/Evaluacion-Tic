@@ -4,3 +4,4 @@
 - Autentificación de usuario
 - Version de prueba del API Rest
 - Pruebas y aseguramiento de calidad del API Rest
+- Prototipo figma
