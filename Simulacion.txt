@@ -2,4 +2,4 @@
 - Desarrollo Backend 
 - Pruebas y aseguramiento de calidad 
 - Desarrollo fronted - terminado
-- Despliegue
+- Despliegue - Terminado
