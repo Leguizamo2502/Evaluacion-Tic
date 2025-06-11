@@ -1,1 +1,2 @@
 - Planificación del proyecto
+- Creación de la base de datos
