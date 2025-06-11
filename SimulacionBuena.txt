@@ -2,3 +2,4 @@
 - Creación de la base de datos
 - Creación del Modulo de seguridad
 - Autentificación de usuario
+- Version de prueba del API Rest
