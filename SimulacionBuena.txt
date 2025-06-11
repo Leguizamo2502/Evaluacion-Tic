@@ -6,3 +6,4 @@
 - Pruebas y aseguramiento de calidad del API Rest
 - Prototipo figma
 - Creación del Login en el frontend
+- Creación del layout en el frontend
